@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mcwiekala
-- 👀 I’m interested in java, spring, cloud, NoSQL, microservices
+- 👀 I’m interested in TDD & DDD, java, spring, cloud, NoSQL, microservices
 - 🌱 I’m currently learning architecture
 - 💞️ I’m looking to collaborate on startups and small companies
 - 📫 How to reach me: here?
